@@ -1,0 +1,6 @@
+c:\users\changhxu\documents\visual studio 2013\Projects\InstrumentStore\InstrumentStore\bin\Debug\InstrumentStore.exe.config
+c:\users\changhxu\documents\visual studio 2013\Projects\InstrumentStore\InstrumentStore\obj\Debug\InstrumentStore.csprojResolveAssemblyReference.cache
+c:\users\changhxu\documents\visual studio 2013\Projects\InstrumentStore\InstrumentStore\bin\Debug\InstrumentStore.exe
+c:\users\changhxu\documents\visual studio 2013\Projects\InstrumentStore\InstrumentStore\bin\Debug\InstrumentStore.pdb
+c:\users\changhxu\documents\visual studio 2013\Projects\InstrumentStore\InstrumentStore\obj\Debug\InstrumentStore.exe
+c:\users\changhxu\documents\visual studio 2013\Projects\InstrumentStore\InstrumentStore\obj\Debug\InstrumentStore.pdb
